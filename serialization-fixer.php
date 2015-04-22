@@ -18,7 +18,7 @@
  * Define your SQL filename here first, then run the page.
  * @var string
  */
-$sql_filename = 'goromgorom.sql';
+$sql_filename = 'filename.sql';
 
 
 
