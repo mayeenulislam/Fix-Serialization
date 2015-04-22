@@ -24,7 +24,7 @@ To use the main file Please visit Pau Iglesias's master branch [here](https://gi
        ``````
   - That's it :)
 
-Licensed under the GPL version 3 or later:
+Licensed under the GPL version 3 or later:<br>
 http://www.gnu.org/licenses/gpl.txt
 
 Thanks Pau Iglesias (the main repo owner)<br>
