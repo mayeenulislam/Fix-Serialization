@@ -4,8 +4,7 @@ A PHP script to fix length attributes for serialized strings over database dumps
 
 This script can be useful if you perform text replacements in database dumps containing serialized data structures, so that reconstructs the serialized length attribute and prevents the serialized offset error in code execution.
 
-### Disclaimer:
-
+> **DISCLAIMER**<br>
 This is a FORKED version to let the user fix their file in a Raw PHP way.
 To use the main file Please visit Pau Iglesias's master branch [here](https://github.com/Blogestudio/Fix-Serialization). The main repo has shell script what this repo isn't offering.
 
